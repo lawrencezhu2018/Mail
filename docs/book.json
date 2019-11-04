@@ -29,7 +29,10 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": [],
+    "plugins": [
+        "katex"
+    ],
     "title": "Sample GitBook",
-    "variables": {}
+    "variables": {},
+    "pluginsConfig": {}
 }
